@@ -5,7 +5,7 @@ node_modules
 .vscode
 
 # app dir
-built
+#built
 temp
 
 coverage
